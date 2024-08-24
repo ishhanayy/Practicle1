@@ -39,6 +39,6 @@ public class AppTest
     {
         App app = new App();
         String result = app.sayHello();
-        assertEquals("Hello, Aditya!", result);
+        assertEquals("Hello, Maven!", result);
     }
 }
